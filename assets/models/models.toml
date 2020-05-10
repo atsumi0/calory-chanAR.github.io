@@ -1,5 +1,5 @@
 [[models]]
-name = "Rice"
+name = "calory_chan_AR"
 scale = 4
 [models.canvasOffset]
 x = -0.23
