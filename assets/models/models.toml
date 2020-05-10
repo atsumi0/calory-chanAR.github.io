@@ -1,9 +1,20 @@
 [[models]]
+# モデル名
 name = "calory"
-scale = 4
-[models.canvasOffset]
-x = -0.23
+# ビルボーディング表示設定
+billboarding = false
+# AR 空間上のモデルの拡大率
+scale = 1
+# AR 空間上のモデルの表示位置
 [models.position]
-y = -0.35
+x = 0 # 左右位置
+y = 0 # 上下位置
+z = 0 # 前後位置
+# AR 空間上のモデルの表示角度調整
+[models.rotation]
+x = 0 # X軸回転
+y = 0 # Y軸回転
+z = 0 # Z軸回転
+# モデルの当たり判定とモーショングループの紐付け
 [models.hitInfo]
-HitAreaBody = "Tap"
+# 当たり判定ID = "Tap"
