@@ -17,4 +17,4 @@ y = 0 # Y軸回転
 z = 0 # Z軸回転
 # モデルの当たり判定とモーショングループの紐付け
 [models.hitInfo]
-# 当たり判定ID = "Tap"
+HitAreaBody = "Tap"
