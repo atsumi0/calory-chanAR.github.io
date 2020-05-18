@@ -2,7 +2,7 @@
 # モデル名
 name = "calory"
 # ビルボーディング表示設定
-billboarding = true
+billboarding = false
 # AR 空間上のモデルの拡大率
 scale = 5
 # AR 空間上のモデルの表示位置
