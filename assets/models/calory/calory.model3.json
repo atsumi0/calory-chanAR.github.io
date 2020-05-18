@@ -7,14 +7,14 @@
 		],
 		"Physics": "calory.physics3.json",
 		"Motions": {
-			"Idle": [
-				{
-					"File": "motions/Idle.motion3.json"
-				}
-			],
 			"Tap": [
 				{
 					"File": "motions/potato.motion3.json"
+				}
+			],
+			"Idle": [
+				{
+					"File": "motions/Idle.motion3.json"
 				}
 			]
 		}
